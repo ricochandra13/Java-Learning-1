@@ -6,7 +6,7 @@
 
 ## Materi
 
->> Type Data
->> Variable Scope
->> String
->> Control Statement (Switch Statement, Ternary Operator)
+> Type Data
+> Variable Scope
+> String
+> Control Statement (Switch Statement, Ternary Operator)
